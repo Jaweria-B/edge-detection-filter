@@ -33,6 +33,16 @@ def main():
             # Display filtered image
             st.subheader("Filtered Image ✨")
             st.image(filtered_image, caption="Filtered Image", use_column_width=True)
+        
+        st.write(
+        """
+        ---
+        Made By **_Jaweria Batool_**
+        """
+        )
+
+        # link to GitHub README file
+        st.write("For more information about how the app works, please check out the [GitHub README](https://github.com/Jaweria-B/edge-detection-filter) file.")
 
 # Run the app
 if __name__ == "__main__":
