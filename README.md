@@ -2,6 +2,8 @@
 
 Welcome to the Magical Image Filter App, where we sprinkle a touch of magic on your pictures! 🌈✨
 
+[Click here to access the live demo!](https://edge-detection-app-jb.streamlit.app/)
+
 ## What is this?
 
 This app is here to bring your images to life with a dazzling **Edge Detection Filter**! 🚀 Simply upload your images, and watch as the app applies a special filter that enhances the edges, making your pictures pop with flair! 🌟
